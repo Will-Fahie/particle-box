@@ -7,9 +7,13 @@ PyGame required!
 Controls:
 
 left click: Add a particle
+
 (hold) left click: Add many particles
+
 RETURN: Toggle gravity
+
 lshift + return: Toggle circular motion
+
 BACKSPACE: Toggle particle collisions
 UP ARROW: Increment new particle size
 DOWN ARROW: Decrement new particle size
